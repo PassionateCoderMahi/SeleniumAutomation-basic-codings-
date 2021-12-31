@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Seleniumbasictraining.NewTEST1"/>
+      <class name="Seleniumbasictraining.HyperLinks"/>
+      <class name="Seleniumbasictraining.Sampletest1"/>
+      <class name="Seleniumbasictraining.BrowserNavigation"/>
+      <class name="Seleniumbasictraining.RdioButtonExcercise"/>
+      <class name="Seleniumbasictraining.webelementTest"/>
+      <class name="Seleniumbasictraining.WebEdit"/>
+      <class name="Seleniumbasictraining.FireFox"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
